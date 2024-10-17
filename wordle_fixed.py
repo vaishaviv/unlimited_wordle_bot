@@ -1,7 +1,7 @@
 import tkinter as tk
 import random
 
-# List of five-letter words
+#importing a string of 100 words from GitHub @ https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt
 tup1 = ("whichtheretheiraboutwouldtheseotherwordscouldwritefirstwaterafterwhererightthinkthreeyears"
         "placesoundgreatagainstilleverysmallfoundthoseneverundermightwhilehouseworldbelowaskedgoing"
         "largeuntilalongshallbeingoftenearthbegansincestudynightlightabovepaperpartsyoungstorypoint"
