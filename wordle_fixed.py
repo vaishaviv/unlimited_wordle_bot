@@ -84,7 +84,7 @@ def check_guess():
 
 # Set up the main application window
 root = tk.Tk()
-root.title("Pastel Wordle Game")
+root.title("Unlimited Wordle Bot")
 root.geometry("400x400")
 root.config(bg="#FDE2E4")  # Light pastel pink background
 
