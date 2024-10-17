@@ -1,7 +1,9 @@
 Wordle Bot Game 🎮
+
 A simple Wordle game built with Python and Tkinter. Test your skills by trying to guess the randomly selected five-letter word within six attempts! 
 
 📝 Features
+
 Random Word Selection: Choose from a list of five-letter words.
 Color-Coded Feedback:
 Green: Correct letter and correct position.
